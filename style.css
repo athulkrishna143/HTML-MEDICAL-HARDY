@@ -1,0 +1,49 @@
+a {
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+/* NAV- BAR */
+.nav-bar{
+width: 1322;
+height: 91;
+left: 59px;
+
+}
+/* logo style */
+.logo{
+    max-width: max-content;
+}
+
+.nav-menu{
+display: flex;
+gap: 1rem;
+width: 815;
+height: 58;
+top: 16px;
+left: 364px;
+justify-content: center;
+}
+.main-nav{
+    display: flex;
+    width: 275;
+height: 24;
+top: 17px;
+gap: 21px;
+
+}
+.auth-nav{
+    display: flex;
+    width: 228;
+height: 52;
+top: 3px;
+left: 594px;
+gap: 40px;
+
+}
+
+.logo{
+    max-width: max-content;
+}
