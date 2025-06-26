@@ -44,6 +44,38 @@ gap: 40px;
 
 }
 
+.material-symbols-outlined{
+
+    vertical-align: middle;
+    
+}
+.login{
+       border: none;
+width: 41;
+height: 22;
+font-family: Montserrat;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0.2px;
+background-color: #ffffff;
+color: #8D5CF6;
+justify-content: center;
+}
+.join{
+     vertical-align: middle;
+    color:#ffffff;
+width: 146;
+height: 52;
+font-family: Montserrat;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0.2px;
+background-color: #8D5CF6;
+border-radius:10px ;
+}
+
 .logo{
     max-width: max-content;
 }
